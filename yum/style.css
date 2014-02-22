@@ -35,6 +35,9 @@ body {
       font-family: Arial; font-size:12px
 	line-height: 1;
 }
+h1 {
+color:red;
+}
 ol, ul {
 	list-style: none;
 }
