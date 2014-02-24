@@ -73,7 +73,7 @@ table {
 html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
 
-article .Dogs h2 {
+.Dogs h2 {
 	font-family:gillsans;
 	font-size:50px;
 }
