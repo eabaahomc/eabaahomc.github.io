@@ -72,8 +72,8 @@ table {
 .clearfix { display: inline-block; }
 html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
-.dog h2{color:red;
-}
-p {color:teal;
+
+p {
+	color:red;
 
 }
