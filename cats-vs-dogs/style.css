@@ -89,6 +89,8 @@ li {float:left;
 ul{
 	margin:20px;
 }
-article .dogs {float :left;
+article.dogs {float :left;
 
+}
+article.cats {float:right;
 }
