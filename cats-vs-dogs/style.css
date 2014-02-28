@@ -82,7 +82,10 @@ p {
 
 }
 li {float:left;
-	margin:50 px;
+	
 	padding:10px;
 
+}
+ul{
+	margin:20px;
 }
