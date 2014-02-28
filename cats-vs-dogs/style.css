@@ -78,7 +78,7 @@ html[xmlns] .clearfix { display: block; }
 	font-size:50px;
 }
 p {
-	color:red;
+	color:blue;
 
 }
 li {float:left;
@@ -89,8 +89,8 @@ li {float:left;
 ul{
 	margin:20px;
 }
-article.dogs {float :left;
+.dogs {float :left;
 
 }
-article.cats {float:right;
+.cats {float:right;
 }
