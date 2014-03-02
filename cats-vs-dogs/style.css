@@ -79,6 +79,7 @@ html[xmlns] .clearfix { display: block; }
 }
 p {
 	color:blue;
+	font-style:bold;
 
 }
 li {float:left;
