@@ -79,8 +79,7 @@ html[xmlns] .clearfix { display: block; }
 }
 p {
 	color:blue;
-	font-style:bold;
-
+	
 }
 li {float:left;
 	
@@ -108,5 +107,8 @@ padding:10px;
 .logo{position:relative;
      top:0px;
 	left:200px;
+
+}
+h2 {font-weight:bold; 
 
 }
