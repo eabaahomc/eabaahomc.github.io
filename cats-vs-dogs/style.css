@@ -89,12 +89,12 @@ li {float:left;
 ul{
 	margin:20px;
 }
-.dogs {width:400px;
+.dogs {width:200px;
 	height:400px;
 	float :left;
 
 }
-.cats {width:400px;
+.cats {width:200px;
 	height:400px;
 	float:right;
 }
