@@ -58,15 +58,19 @@ table {
 /* END RESET */
 
 p {
-	color:blue;
+	color:black;
 	
 }
 li{font-weight:bold;
 
 }
-h1 {font-size:160%;
+h1 {color:black;
+	font-size:160%;
 
 }
 ul, ol {
 margin:0 1.5em 1.5em 1.5em;
+}
+#intro{font-weight:italic;
+
 }
