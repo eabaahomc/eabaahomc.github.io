@@ -113,3 +113,6 @@ h2 {font-weight:bold;
     font-size:150%; 
 
 }
+ul, ol {
+margin:0 1.5em 1.5em 1.5em;
+}
