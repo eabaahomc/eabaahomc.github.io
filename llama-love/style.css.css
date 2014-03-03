@@ -53,4 +53,18 @@ table {
 
 /* END RESET */
 
+.llama1 {width:600px;
+	height:400px;
+	float :left;
 
+}
+.llama2 {width:600px;
+	height:400px;
+	float:right;
+
+h2 {font-weight: bold;
+
+}
+h1 {font-weight: bold;
+
+}
