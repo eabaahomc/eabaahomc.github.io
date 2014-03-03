@@ -60,7 +60,7 @@ table {
 }
 .llama2 {width:400px;
 	height:400px;
-	float:right;
+	float:left;
 
 h2 {font-weight: bold;
 
@@ -68,3 +68,4 @@ h2 {font-weight: bold;
 h1 {font-weight: bold;
 
 }
+p{color:blue;}
