@@ -54,12 +54,11 @@ table {
 /* END RESET */
 
 #part1 {width:400px;
-	height:400px;
 	float :left;
 
 }
 #part2 {width:400px;
-	height:400px;
+
 	float:right;}
 
 h2 {font-weight: bold;
