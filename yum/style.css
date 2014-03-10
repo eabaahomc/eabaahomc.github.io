@@ -63,8 +63,10 @@ h1{
 	font-size:300%;
 }
 
-ol {padding:20px;
+ol {margin:20px;
+	padding:20px;
 	list-style:decimal;
+	color:#A38242;
 
 }
 
@@ -83,6 +85,6 @@ body {background-color:#FFFF99; padding: 60px;
 
 
 ul {list-style:disc;
-	color:#8D8D8D;
+	color:#FFAC59;
 }
 
