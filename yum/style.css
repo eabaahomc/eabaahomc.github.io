@@ -73,7 +73,6 @@ body {background-color:#FFFF99; padding: 60px;
 }
 
 
-}
 .name {font-weight: bold;
 
 }
@@ -82,5 +81,9 @@ body {background-color:#FFFF99; padding: 60px;
 
 
 ul {font-weight:bold;
+
+}
+
+image {padding:15px;
 
 }
