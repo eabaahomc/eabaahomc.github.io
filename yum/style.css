@@ -57,7 +57,7 @@ table {
 
 /* END RESET */
 
-h1{text-align:center;
+h1{
 	font-family:verdana;
 	color:#E68A00;
 	font-size:300%;
@@ -78,7 +78,7 @@ body {background-color:#FFFF99; padding: 60px;
 
 }
 
-.intro{font-weight:bold;
+.intro{font-style:italic;
        color:#CC9900; }
 
 
