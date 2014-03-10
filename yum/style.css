@@ -62,9 +62,7 @@ h1{text-align:center;
 	color:#E68A00;
 	font-size:200%;
 
-ul {font-weight:bold;
 
-}
 ol {list-style:lower-roman;
 
 }
@@ -81,3 +79,8 @@ body {background-color:#FFFF99; padding: 60px;
 }
 .intro{font-weight:bold;
        color:#CC9900; }
+
+
+ul {font-weight:bold;
+
+}
