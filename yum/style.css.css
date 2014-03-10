@@ -70,10 +70,8 @@ li{font-weight:bold;
 ul, ol {
 margin:0 1.5em 1.5em 1.5em;
 }
-p {font-weight:italic;
 
-}
-body {padding: 200px;
+body {background-color:#FFFF99; padding: 60px;
 
 }
 h1{font-family:georgia;color:#FFCC00;
