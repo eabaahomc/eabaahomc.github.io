@@ -64,16 +64,11 @@ h1{text-align:center;
 
 ul {font-weight:bold;
 
-
 }
 ol {list-style:decimal;
 
 }
 
-}
-ul, ol {
-margin:0 1.5em 1.5em 1.5em;
-}
 
 body {background-color:#FFFF99; padding: 60px;
 
