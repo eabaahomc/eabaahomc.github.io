@@ -57,6 +57,10 @@ table {
 
 /* END RESET */
 
+h1{text-align:center;
+	font-family:verdana;
+	color:#FFCC00;
+	font-size:160%;
 p {
 	color:black;
 	font-family:verdana;
@@ -74,8 +78,7 @@ margin:0 1.5em 1.5em 1.5em;
 body {background-color:#FFFF99; padding: 60px;
 
 }
-h1{font-family:georgia;color:#FFCC00;
-	font-size:160%;
+
 
 }
 #ingre {font-weight: bold;
