@@ -51,13 +51,28 @@ table {
 }
 
 
+/* Clearfix */
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+ 
+.clearfix { display: inline-block; }
+html[xmlns] .clearfix { display: block; }
+* html .clearfix { height: 1%; }
+
 /* END RESET */
 
-#part1 {width:400px;
+
+#part1 {width:300px;
 	float :left;
 
 }
-#part2 {width:400px;
+#part2 {width:300px;
 
 	float:right;}
 
