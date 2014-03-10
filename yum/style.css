@@ -76,7 +76,8 @@ body {background-color:#FFFF99; padding: 60px;
 }
 
 
-.name {font-weight: bold;
+.name {color:#B26B00;
+	font-weight: bold;
 
 }
 
@@ -97,4 +98,5 @@ a:hover {color:#5C3D00;
 
 }
 
-.name2 {font-weight: bold;}
+.name2 {color:#B26B00;
+	font-weight: bold;}
