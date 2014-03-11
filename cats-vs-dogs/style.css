@@ -101,6 +101,8 @@ ul{
 
 
 .top {position:center;
+	  border-width:990;
+	  border-style:solid;
 
 }
 .logo{position:relative;
