@@ -73,12 +73,14 @@ html[xmlns] .clearfix { display: block; }
 .llama2{width:400px;
         float:right;
 }
-h1 {font-size:30px;
+h1 {font-size:20px;
 	font-weight:bold;
+	padding-bottom:10px;
 
 }
 h2 {color:#686868;
 	font-size:15px;
+	padding-bottom:10px; 
 
 }
 body{font-family:verdana;
