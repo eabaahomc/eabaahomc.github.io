@@ -88,5 +88,5 @@ body{font-family:verdana;
 	padding:80px;
 
 }
-img.llama1{float:left;}
-img.llama2{float:right;}
+img#pic1 {float:left;}
+img#pic2 {float:right;}
