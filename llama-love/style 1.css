@@ -85,6 +85,8 @@ h2 {color:#686868;
 }
 body{font-family:verdana;
 	margin:10px;
-	padding:80px;
+	padding:60px;
 
 }
+img.llama1{float:left;}
+img.llama2{float:right;}
