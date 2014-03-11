@@ -86,7 +86,7 @@ h2 {color:#686868;
 }
 body{font-family:verdana;
 	margin:10px;
-	padding:80px;
+	padding:90px;
 	width:900px;
 
 }
@@ -96,3 +96,7 @@ img#pic1 {padding-right:10px;
 img#pic2 {padding-right:10px;
 	      float:left;
 	      padding-bottom:5px;}
+
+p {line-height:1.4em;
+
+}	      
