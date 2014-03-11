@@ -77,10 +77,11 @@ h1 {font-size:30px;
 	font-weight:bold;
 
 }
-h2 {color:#B2B2B2;
+h2 {color:#686868;
 	font-size:15px;
 
 }
-body{margin:10px;
+body{font-family:verdana;
+	margin:10px;
 
 }
