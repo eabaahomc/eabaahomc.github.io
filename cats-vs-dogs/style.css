@@ -89,18 +89,17 @@ li {float:left;
 ul{
 	margin:20px;
 }
-.dogs {width:600px;
+.dogs {width:400px;
 	height:400px;
 	float :left;
 
 }
-.cats {width:600px;
+.cats {width:400px;
 	height:400px;
 	float:right;
 }
-.everything {margin:10px;
-padding:10px;
-}
+
+
 .top {position:center;
 
 }
@@ -116,7 +115,7 @@ h2 {font-weight:bold;
 body{font-family:verdana;
 	margin:10px;
 	padding:90px;
-	width:890px;
+	width:940px;
 	position: relative;
 	  margin:0 auto;
 
