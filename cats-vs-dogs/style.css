@@ -100,7 +100,7 @@ ul{
 }
 
 
-#above {position:center;
+.above {position:center;
 	  border-width:990;
 	  border-style:solid;
 
@@ -116,7 +116,7 @@ h2 {font-weight:bold;
 }
 body{font-family:verdana;
 	margin:10px;
-	padding:90px;
+	padding:40px;
 	width:990px;
 	position: relative;
 	  margin:0 auto;
