@@ -65,22 +65,22 @@ html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
 /* END RESET */
 .llama1 {width:400px;
-	     margin:90px;
+	     margin-right:90px;
 	     float:left;
 
 }
 
 .llama2{width:400px;
-	    margin:90px;
         float:right;
 }
 h1 {font-size:30px;
 	font-weight:bold;
 
 }
-h2 {font-size:15px;
+h2 {color:#B2B2B2;
+	font-size:15px;
 
 }
-body{margin:200px;
+body{margin:10px;
 
 }
