@@ -49,6 +49,28 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+/* Center Content */
+
+.centered { 
+  margin:0 auto;
+  width:960px;
+}
+
+
+/* Clearfix */
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+ 
+.clearfix { display: inline-block; }
+html[xmlns] .clearfix { display: block; }
+* html .clearfix { height: 1%; }
 /*This is where the reset ends*/
 
 #footer-wrapper {position:relative;
@@ -61,8 +83,8 @@ table {
 	           top:0px;
 
 }
-.menu-wrapper {position:relative;
-	           background-color:;
+.menu-wrapper {position:absolute;
+	           background-color:#663300;
 	           top:50px;
 	           padding:20px;
 
