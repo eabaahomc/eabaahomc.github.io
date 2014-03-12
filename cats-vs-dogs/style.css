@@ -92,6 +92,7 @@ position:relative;
      border-top-width: 2px;
      border-bottom-width: 2px;
      border-color:#000000;
+     border-style:solid;
 }
 li
 {
