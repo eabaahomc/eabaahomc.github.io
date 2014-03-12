@@ -74,9 +74,8 @@ html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
 <!--this is where the reset ends-->
 h2 {
-	font-family:gillsans;
 	font-size:50px;
-	padding-bottom: 10px;
+	padding-bottom: 20px;
 }
 p {
 	color:black;
