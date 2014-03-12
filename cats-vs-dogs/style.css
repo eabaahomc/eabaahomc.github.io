@@ -84,11 +84,13 @@ p {
 ul
 {
 list-style-type:none;
-margin:0;
+margin:20px;
 padding:0;
 position:relative;
      top:0px;
      left:200px;
+     border-top-width: 2px;
+     border-bottom-width: 2px;
 }
 li
 {
