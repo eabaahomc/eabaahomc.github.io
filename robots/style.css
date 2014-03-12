@@ -56,3 +56,14 @@ table {
 	       bottom:0px;
 
 }
+.site-wrapper {position:absolute;
+	           background-color:#FFFFCC;
+	           top:0px;
+
+}
+.menu-wrapper {position:relative;
+	           background-color:;
+	           top:50px;
+	           padding:20px;
+
+}
