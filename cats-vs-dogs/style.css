@@ -104,13 +104,13 @@ margin:30px;
 padding:10px;
 }
 
-.dogs {width:370px;
+.dogs {width:400px;
 	height:400px;
 	float :left;
 	margin-right:10px;
 
 }
-.cats {width:370px;
+.cats {width:400px;
 	height:400px;
 	float:right;
 }
