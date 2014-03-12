@@ -98,7 +98,7 @@ font-weight:bold;
 	float :left;
 
 }
-.cats {width:200px;
+.cats {width:300px;
 	height:400px;
 	float:right;
 }
@@ -112,6 +112,7 @@ font-weight:bold;
 .logo{position:relative;
      top:0px;
 	left:200px;
+	padding-bottom:10px;
 
 }
 h2 {font-weight:bold;
