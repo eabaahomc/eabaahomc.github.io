@@ -91,6 +91,7 @@ position:relative;
      left:200px;
      border-top-width: 2px;
      border-bottom-width: 2px;
+     border-color:#000000;
 }
 li
 {
@@ -132,3 +133,6 @@ body{font-family:verdana;
 	position: relative;
 	  margin:0 auto;}
 
+img {margin-bottom:10px;
+
+}
