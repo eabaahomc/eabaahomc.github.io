@@ -93,22 +93,23 @@ position:relative;
      border-bottom-width: 2px;
      border-color:#000000;
      border-style:solid;
+
 }
 li
 {
 display:inline;
 font-weight:bold;
 margin:30px;
-padding:20px;
+padding:10px;
 }
 
-.dogs {width:300px;
+.dogs {width:350px;
 	height:400px;
 	float :left;
 	margin-right:10px;
 
 }
-.cats {width:300px;
+.cats {width:350px;
 	height:400px;
 	float:right;
 }
