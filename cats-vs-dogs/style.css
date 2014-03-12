@@ -90,9 +90,10 @@ padding:0;
 li
 {
 display:inline;
+font-weight:bold;
 }
 
-.dogs {width:200px;
+.dogs {width:300px;
 	height:400px;
 	float :left;
 
