@@ -73,7 +73,7 @@ table {
 html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
 <!--this is where the reset ends-->
-.Dogs h2 {
+h2 {
 	font-family:gillsans;
 	font-size:50px;
 	padding-bottom: 10px;
@@ -104,13 +104,13 @@ margin:30px;
 padding:10px;
 }
 
-.dogs {width:350px;
+.dogs {width:370px;
 	height:400px;
 	float :left;
 	margin-right:10px;
 
 }
-.cats {width:350px;
+.cats {width:370px;
 	height:400px;
 	float:right;
 }
