@@ -78,9 +78,7 @@ html[xmlns] .clearfix { display: block; }
 	       bottom:0px;
 
 }
-.site-wrapper {position:absolute;
-	           background-color:#FFFFCC;
-	           top:0px;
+
 
 }
 .main-menu {position:relative;
@@ -89,7 +87,7 @@ html[xmlns] .clearfix { display: block; }
 	           padding:20px;
 
 }
-ul
+.number1
 {
 list-style-type:none;
 margin:0px;
