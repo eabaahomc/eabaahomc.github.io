@@ -80,26 +80,20 @@ html[xmlns] .clearfix { display: block; }
 }
 
 
-}
-.number1 {position:relative;
-	           background-color:#663300;
-	           top:100px;
-	           padding:20px;
-
-}
 .number1
 {
 list-style-type:none;
 margin:0px;
 padding:10px;
 position:relative;
-     top:0px;
-     left:0px;
      border-top-width: 2px;
      border-bottom-width: 2px;
      border-color:#000000;
      border-style:solid;
      text-align:center;
+     background-color:#663300;
+	           top:100px;
+	           padding:20px;
 
 }
 li
