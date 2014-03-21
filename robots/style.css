@@ -73,3 +73,10 @@ html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
 /*This is where the reset ends*/
 
+body {margin: 0 auto; 
+
+}
+#menu-wrapper {background-color: #FFCC66;
+
+
+}
