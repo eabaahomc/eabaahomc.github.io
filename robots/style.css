@@ -144,9 +144,10 @@ font-size:14px;
 
 #page h1 {font-family: verdana;
 	         color:#663300;
-	         font-size:60px;
+	         font-size:40px;
 	         font-weight: bold;
 	         margin-bottom:12px;
+	         text-transform:uppercase;
 
 }
 #page h2 {font-family: verdana;
@@ -154,6 +155,7 @@ font-size:14px;
 	         font-size:15px;
 	         font-weight:bold;
 	         margin-bottom:9px;
+text-transform:uppercase;
 
 }
 
