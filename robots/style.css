@@ -108,7 +108,7 @@ width:100%;
 
 }
 
-#number1
+.number1
 {
 list-style-type:none;
 margin:0px;
@@ -118,7 +118,7 @@ position:relative;
      text-align:center;
 
 
-#number1 li {display:inline;
+#main-menu {display:inline;
 font-weight:bold;
 margin:30px;
 padding:10px;
