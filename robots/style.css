@@ -94,13 +94,12 @@ body {margin: 0 auto;
                      height:80px;
 	     background:url(images/robo.png) no-repeat top left; 
                text-indent:-9999px;
+               left:90px;
 
 
 }
 
-#site-header h1 a {left:60px;
 
-}
 
 #top-nav {float:right;
 	      top:3px;
@@ -112,7 +111,7 @@ body {margin: 0 auto;
 	      left:800px;
 	      color:#663300;
 	      font-family: verdana;
-	      font-size:8px;
+	      font-size:10px;
 
 }
 
