@@ -103,13 +103,13 @@ body {margin: 0 auto;
 }
 
 #top-nav {float:right;
-	      top:-5px;
+	      top:5px;
 	      padding:3px;
 	      height:100%;
 	      width:140px;
 	      padding-bottom:30px;
 	      position:absolute;
-	      left:300px;
+	      left:500px;
 
 }
 
