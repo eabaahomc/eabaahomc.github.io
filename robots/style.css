@@ -105,6 +105,8 @@ body {margin: 0 auto;
 #top-nav {float:right;
 	      top:-5px;
 	      padding:3px;
+	      height:100%;
+	      width:140px;
 
 }
 
