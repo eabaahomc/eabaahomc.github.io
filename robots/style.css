@@ -74,6 +74,7 @@ html[xmlns] .clearfix { display: block; }
 /*This is where the reset ends*/
 
 body {margin: 0 auto; 
+	height:100%;
 
 }
 
@@ -130,7 +131,7 @@ font-size:14px;
 }
 
 #page {padding:60px;
-	margin: 100px;
+	margin: 20px;
 	   height:300px;
 	   width:520px;
 	   float:left;
