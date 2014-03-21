@@ -133,6 +133,8 @@ font-size:14px;
 	margin: 50px;
 	   height:100px;
 	   width:520px;
+	   float:left;
+	   position:relative;
 
 
 }
