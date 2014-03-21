@@ -102,6 +102,10 @@ body {margin: 0 auto;
 
 }
 
+#top-nav {float:right;
+	      top:25px;
+
+}
 
 
 #main-menu{background-color: #663300;
