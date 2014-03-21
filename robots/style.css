@@ -88,7 +88,7 @@ body {margin: 0 auto;
 }
 
 #menu-wrapper h1 a {display:block; 
-	     background:url(images/robo.png) no-repeat top left; 
+	     background:url(robo.png) no-repeat top left; 
                text-indent:-9999px;
 
 }
