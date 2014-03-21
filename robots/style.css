@@ -129,7 +129,8 @@ font-family: verdana;
 font-size:14px;
 }
 
-#page {margin: 20px;
+#page {padding:60px;
+	margin: 20px;
 	   height:300px;
 	   width:300px;
 
