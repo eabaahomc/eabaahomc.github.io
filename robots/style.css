@@ -76,7 +76,10 @@ html[xmlns] .clearfix { display: block; }
 body {margin: 0 auto; 
 
 }
-#menu-wrapper {background-color: #FFCC66;
+
+#menu-wrapper {background-color: #FFD683;
+	           position: absolute;
+	           top:0px;
 
 
 }
