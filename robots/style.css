@@ -102,5 +102,23 @@ body {margin: 0 auto;
 
 #main-menu{background-color: #663300;
 	     color:white;
+	     margin:0px;
+padding:10px;
+position:relative;
 
+}
+#number1{list-style-type:none;
+margin:0px;
+padding:10px;
+position:relative;
+     top:0px;
+     text-align:center;
+
+}
+
+#options {display:inline;
+font-weight:bold;
+margin:30px;
+padding:10px;
+	
 }
