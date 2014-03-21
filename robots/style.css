@@ -145,7 +145,7 @@ font-size:14px;
 
 
 #sidebar {float:right;
-
+           top:0px;
 }
 
 #footer-wrapper {background-color:#8A5C2E;
