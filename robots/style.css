@@ -188,6 +188,11 @@ text-transform:uppercase;
            margin:70px;
            font-family: verdana;
            font-size:12px;
+
+}
+
+#sidebar p {line-height: 1.4em;
+
 }
 
 #sidebar h1 {color:#8A5C2E;
