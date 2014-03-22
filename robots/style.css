@@ -79,7 +79,7 @@ body {margin: 0 auto;
 
 }
 
-#site-wrapper {background-color: #FFE2AA;
+#site-wrapper {background-color: #FFFFCC;
 	           position: absolute;
 	           top:0px;
 	           width:100%;
@@ -188,17 +188,17 @@ text-transform:uppercase;
            margin:70px;
            font-family: verdana;
            font-size:12px;
-           font-weight:bold;
+           
 
 }
 
-#sidebar p {line-height: 1.4em;
+#sidebar p {line-height: 2em;
 
 }
 
 #sidebar h1 {color:#8A5C2E;
 	         font-size:15px;
-
+font-weight:bold;
 }
 
 #footer-wrapper {background-color:#8A5C2E;
