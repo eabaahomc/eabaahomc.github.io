@@ -169,5 +169,10 @@ img {margin-bottom:10px;
 footer{border-top:;
 	   border-color:black;
 	   border-top-style:solid;
+	   position:absolute;
+	   bottom:0px;
+
+}
+#left {float:left;
 
 }
