@@ -103,7 +103,7 @@ li
 {
 display:inline;
 font-weight:bold;
-margin:30px;
+margin:20px;
 padding:10px;
 }
 
@@ -179,9 +179,10 @@ footer{
 }
 
 #left {float:left;
-	   margin-left:200px;
+	   
 
 }
 #right {float:left;
+	    margin-right:200px;
 
 }
