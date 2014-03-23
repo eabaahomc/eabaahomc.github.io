@@ -111,10 +111,10 @@ padding:10px;
 	height:400px;
 	float :left;
 	margin-right:20px;
-
+	text-align:left;
 }
 
-.dogs p  {text-align:left;
+.dogs h2 {margin-bottom:10px;
 
 }
 
@@ -128,9 +128,10 @@ padding:10px;
 	text-align:left;
 }
 
-
+.cats h2 {margin-bottom:10px;
 
 }
+
 
 .everything {width:100%;
 	         padding:30px;
