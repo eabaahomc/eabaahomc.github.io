@@ -179,6 +179,7 @@ footer{
 }
 
 #left {float:left;
+	   margin-left:200px;
 
 }
 #right {float:left;
