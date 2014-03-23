@@ -96,6 +96,7 @@ position:relative;
      border-color:#000000;
      border-style:solid;
      text-align:center;
+     width:100%;
 
 }
 li
@@ -136,7 +137,7 @@ h2 {font-weight:bold;
 body{font-family:verdana;
 	margin:10px;
 	padding:60px;
-	width:1000px;
+	width:100%px;
 	position: relative;
 	  margin:0 auto;}
 
