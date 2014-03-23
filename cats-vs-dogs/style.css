@@ -175,10 +175,12 @@ footer{
 	   height:40px;
 	   background-color:#FFFFFF;
 	   border-top-width:2px;
+	   padding-top:20px;
 
 }
 
 #left {float:left;
+	padding-right:380px;
 	   
 
 }
