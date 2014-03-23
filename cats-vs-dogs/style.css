@@ -121,6 +121,7 @@ padding:10px;
 
 .everything {width:100%;
 	         padding:30px;
+	         text-align:center;
 
 }
 
@@ -131,10 +132,10 @@ padding:10px;
 }
 .logo{position:relative;
      top:0px;
-	left:220px;
 	padding-bottom:10px;
-
+    text-align:center;
 }
+
 h2 {font-weight:bold;
     font-size:150%; 
 
