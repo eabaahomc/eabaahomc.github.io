@@ -118,10 +118,18 @@ padding:10px;
 
 }
 
+
+
+
 .cats {width:500px;
 	height:400px;
 	float:left;
 	margin-left:0px;
+	text-align:left;
+}
+
+
+
 }
 
 .everything {width:100%;
