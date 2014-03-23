@@ -107,18 +107,22 @@ margin:30px;
 padding:10px;
 }
 
-.dogs {width:400px;
+.dogs {width:500px;
 	height:400px;
 	float :left;
 	margin-right:0px;
 
 }
-.cats {width:400px;
+.cats {width:500px;
 	height:400px;
-	float:right;
+	float:left;
 	margin-left:0px;
 }
 
+.everything {width:100%;
+	         padding:30px;
+
+}
 
 .above {position:center;
 	  border-width:1000;
