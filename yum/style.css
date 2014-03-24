@@ -108,7 +108,8 @@ a:hover {color:#5C3D00;
 
 
 #content {text-align:center;
-	      padding:100px;
+	      padding-left:200px;
+	      padding-right:200px;
 }	
 
 
