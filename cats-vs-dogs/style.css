@@ -135,6 +135,8 @@ padding:9px;
 
 .everything {width:100%;
 	         padding:30px;
+	         padding-left:100px;
+	         padding-right:100px;
 	         text-align:center;
 
 }
@@ -159,7 +161,6 @@ body{font-family:verdana;
 	margin-left:40px;
 	margin-right:40px;
 	padding:60px;
-	width:100%;
 	position: relative;
 	  margin:0 auto;
     text-align:center;
