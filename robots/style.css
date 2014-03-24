@@ -204,6 +204,10 @@ text-transform:uppercase;
 font-weight:bold;
 }
 
+#sidebar a{padding-top:10px;
+
+}
+
 #footer-wrapper {background-color:#8A5C2E;
 	width:100%;
 	height:140px;
@@ -251,7 +255,8 @@ padding:0px;
 #footer-contact h1 {color:#B5916C;
 	                font-size:15px;
 	                padding-bottom:7px;
-	                line-height:120%; 
+	                line-height:130%;
+	                font-weight:bold; 
 
 
 }
