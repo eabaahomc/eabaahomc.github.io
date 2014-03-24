@@ -217,7 +217,7 @@ font-weight:bold;
 
 }
 
-#footer-follow {left:0px;
+#footer-follow {left:-210px;
 	float:right;
 	position: relative;
 bottom: 100px;
@@ -253,7 +253,7 @@ padding:0px;
 line-height:120%;
 }
 
-#footer-contact h1 {color:#B5916C;
+#footer-follow h1 {color:#B5916C;
 	                font-size:15px;
 	                padding-bottom:7px;
 	                
