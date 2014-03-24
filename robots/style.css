@@ -96,6 +96,7 @@ body {margin: 0 auto;
                text-indent:-9999px;
                left:90px;
                margin-right:40px;
+               margin-left: 115px;
 
 
 }
@@ -135,7 +136,9 @@ padding:10px;
 position:relative;
      top:0px;
      text-align:center;
-     display:inline;}
+     display:inline;
+     margin: 76px;
+ }
 
 .number1 li
 {
