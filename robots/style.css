@@ -204,7 +204,7 @@ text-transform:uppercase;
 font-weight:bold;
 }
 
-#sidebar a{padding-top:10px;
+#pets {padding-top:10px;
 
 }
 
@@ -249,13 +249,13 @@ padding:0px;
 	width:230px;
 	margin-top:12px;
 	margin-left: 120px;
-
+line-height:120%;
 }
 
 #footer-contact h1 {color:#B5916C;
 	                font-size:15px;
 	                padding-bottom:7px;
-	                line-height:130%;
+	                
 	                font-weight:bold; 
 
 
