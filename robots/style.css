@@ -109,7 +109,7 @@ body {margin: 0 auto;
 	      width:140px;
 	      padding-bottom:30px;
 	      position:absolute;
-	      left:800px;
+	      left:930px;
 	      color:#663300;
 	      font-family: verdana;
 	      font-size:10px;
@@ -117,7 +117,7 @@ body {margin: 0 auto;
 }
 
 
-#main-menu{background-color: #663300;
+#main-menu{background-color: #D4D481;
 	     color:white;
 	     margin:0px;
 padding:10px;
@@ -252,6 +252,15 @@ padding:0px;
 	margin-left: 120px;
 line-height:120%;
 }
+
+#footer-contact h1 {color:#B5916C;
+	font-weight:bold;
+	font-size:15px;
+
+}
+
+
+
 
 #footer-follow h1 {color:#B5916C;
 	                font-size:15px;
