@@ -112,6 +112,7 @@ padding:9px;
 	float :left;
 	margin-right:20px;
 	text-align:left;
+	margin-bottom:110px;
 }
 
 .dogs h2 {margin-bottom:10px;
@@ -175,26 +176,22 @@ img {margin-bottom:10px;
 footer{
 	   border-color:black;
 	   border-top-style:solid;
-	   position:absolute;
-	   bottom:-505px;
-	   height:40px;
-	   background-color:#FFFFFF;
 	   border-top-width:2px;
 	   padding-top:20px;
 	   margin-top:30px;
-	   width: 1260px;
-	   left:60px;
+	   width: 100%;
+	   
 	   clear:both;
 	
 
 }
 
 #left {float:left;
-	padding-right:510px;
+	   clear:left;
 	   
 
 }
-#right {float:left;
-	    margin-right:90px;
+#right {float:right;
+	    clear:right;
 
 }
