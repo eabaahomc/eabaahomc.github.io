@@ -155,7 +155,7 @@ font-size:14px;
 	padding:60px;
 	margin: 60px;
 	   height:300px;
-	   width:520px;
+	   width:560px;
 	   float:left;
 	   position:relative;
 	   line-height:120%;
@@ -214,11 +214,11 @@ font-weight:bold;
 	width:100%;
 	height:140px;
 	position:absolute;
-	bottom:-180px;
+	bottom:-380px;
 
 }
 
-#footer-follow {left:-190px;
+#footer-follow {left:-300px;
 	float:right;
 	position: relative;
 bottom: 100px;
