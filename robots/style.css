@@ -182,7 +182,7 @@ text-transform:uppercase;
 }
 
 
-#sidebar {float:right;
+#sidebar {float:left;
            top:100px;
            width:300px;
            height:160px;
@@ -212,7 +212,7 @@ font-weight:bold;
 
 }
 
-#footer-follow {left:150px;
+#footer-follow {left:0px;
 	float:right;
 	position: relative;
 bottom: 100px;
@@ -234,7 +234,7 @@ position:relative;
 
 .buttons li {display:inline;
 font-weight:bold;
-margin:25px;
+margin:20px;
 padding:0px;
 
 
