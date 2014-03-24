@@ -182,18 +182,18 @@ footer{
 	   border-top-width:2px;
 	   padding-top:20px;
 	   margin-top:30px;
-	   
+	   width: 1260px;
 	   left:60px;
 	
 
 }
 
 #left {float:left;
-	padding-right:380px;
+	padding-right:510px;
 	   
 
 }
 #right {float:left;
-	    margin-right:200px;
+	    margin-right:90px;
 
 }
