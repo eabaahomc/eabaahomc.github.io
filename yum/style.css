@@ -107,18 +107,20 @@ a:hover {color:#5C3D00;
 	font-weight: bold;}
 
 
-.content {margin 0 auto;
+#content {text-align:center;
 }	
 
 
-#ingre {padding-top:20px;
+#ingre {text-align:left;
+	padding-top:20px;
 	float:left;
 	    width:400px;
 	    height:400px;
 
 }
 
-#nextpart {padding-top:20px;
+#nextpart {text-align:left;
+	padding-top:20px;
 	float:left;
 	width:400px;
 	height:400px;
