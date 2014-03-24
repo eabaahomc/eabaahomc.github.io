@@ -210,6 +210,11 @@ font-weight:bold;
 }
 
 #footer-follow {left:150px;
+	float:right;
+	position: relative;
+bottom: 100px;
+}
+
 
 }
 
@@ -236,4 +241,11 @@ padding:0px;
 	color:#FFFFFF;
 	width:200px;
 	margin-top:17px;
+	margin-left: 120px;
+
+}
+
+#footer-contact h1 {color:#B5916C;
+	                font-size:12px;
+
 }
