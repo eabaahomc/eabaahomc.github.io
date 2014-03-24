@@ -140,7 +140,7 @@ padding:9px;
 }
 
 .above {position:center;
-	  border-width:1000;
+	  border-width:100%;
 	  border-style:solid;
 
 }
@@ -159,7 +159,10 @@ body{font-family:verdana;
 	padding:60px;
 	width:100%px;
 	position: relative;
-	  margin:0 auto;}
+	  margin:0 auto;
+    text-align:center;
+	}
+
 
 img {margin-bottom:10px;
 	margin-top: 10px;
