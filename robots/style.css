@@ -217,7 +217,7 @@ font-weight:bold;
 
 }
 
-#footer-follow {left:-210px;
+#footer-follow {left:-190px;
 	float:right;
 	position: relative;
 bottom: 100px;
@@ -239,7 +239,7 @@ position:relative;
 
 .buttons li {display:inline;
 font-weight:bold;
-margin:5px;
+margin:3px;
 padding:0px;
 
 
@@ -256,7 +256,7 @@ line-height:120%;
 #footer-follow h1 {color:#B5916C;
 	                font-size:15px;
 	                padding-bottom:7px;
-	                
+	                font-family: verdana;
 	                font-weight:bold; 
 
 
