@@ -93,11 +93,9 @@ body {margin: 0 auto;
 #site-wrapper h1 a {display:block; 
 	                width:300px; 
                      height:119px;
-	     background:url(images/robo.png) no-repeat top left; 
-               text-indent:-9999px;
-               left:90px;
-               margin-right:40px;
-               margin-left: 115px;
+	                 background:url(images/robo.png) no-repeat top left; 
+                     text-indent:-9999px;
+                     margin-left: 115px;
 
 
 }
@@ -113,7 +111,6 @@ body {margin: 0 auto;
 	      left:930px;
 	      color:#663300;
 	      font-size:10px;
-	      text-decoration:none;
 
 }
 
@@ -143,6 +140,12 @@ position:relative;
      text-align:center;
      display:inline;
      margin: 86px;
+
+ }
+
+ a {
+  color:inherit;
+  text-decoration: none;
  }
 
 .number1 li
@@ -189,12 +192,11 @@ font-size:14px;
 
 
 #sidebar {float:left;
-           top:100px;
+           top:204px;
            width:300px;
            height:160px;
            position:relative;
-          
-           margin:70px;
+           margin-left:120px;
            font-size:12px;
            color:#754719;
            line-height: 134%;
@@ -204,7 +206,7 @@ font-size:14px;
 
 #sidebar h1 {color:#8A5C2E;
 	         font-size:15px;
-font-weight:bold;
+             font-weight:bold;
 }
 
 #pets {padding-top:10px;
@@ -212,10 +214,10 @@ font-weight:bold;
 }
 
 #footer-wrapper {background-color:#8A5C2E;
-	width:100%;
-	height:140px;
-	position:absolute;
-	bottom:-380px;
+	             width:100%;
+	             height:140px;
+	             position:absolute;
+	             bottom:-380px;
 
 }
 
