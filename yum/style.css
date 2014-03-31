@@ -124,7 +124,7 @@ a:hover {color:#5C3D00;
 	    height:700px;
 	    padding-left:209px;
 	    font-size:20px;
-	    padding-top:140px;
+	    padding-top:120px;
 
 }
 
@@ -145,4 +145,6 @@ footer {width:100%;
         background-color:#FFFF66;
         position: absolute;
         bottom:-440px;
+        padding-left:100px;
+        color:#FFFFFF;
 }
