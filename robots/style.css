@@ -130,7 +130,7 @@ body {margin: 0 auto;
 
 }
 
-.number1
+.main-menu ul
 {
 list-style-type:none;
 margin:10px;
@@ -148,14 +148,14 @@ position:relative;
   text-decoration: none;
  }
 
-.number1 li
+.main-menu li
 {
 display:inline;
 font-weight:bold;
 margin:13px;
 padding:0px;
 color:#FFFFFF;
-font-family: verdana;
+text-transform:uppercase;
 font-size:14px;
 }
 
