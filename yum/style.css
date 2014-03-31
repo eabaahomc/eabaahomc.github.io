@@ -80,6 +80,10 @@ body {background-color:#FFFFFF;
 
 }
 
+#top {padding-top: 16px; 
+
+}
+
 
 .name {color:#B26B00;
 	font-weight: bold;
@@ -119,7 +123,7 @@ a:hover {color:#5C3D00;
 	    float:left;
 	    width:400px;
 	    height:700px;
-	    padding-left:100px;
+	    padding-left:209px;
 	    font-size:20px;
 	    padding-top:140px;
 
@@ -130,7 +134,7 @@ a:hover {color:#5C3D00;
 	float:left;
 	width:400px;
 	height:700px;
-
+    padding-left:70px; 
 }
 
 #pic {padding:25px;
