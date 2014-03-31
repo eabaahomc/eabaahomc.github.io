@@ -76,13 +76,14 @@ ol {
 }
 
 
-body {background-color:#FFFF99; padding: 60px;
+body {background-color:#FFFF99; 
 
 }
 
 
 .name {color:#B26B00;
 	font-weight: bold;
+	padding-top: 20px;
 
 }
 
@@ -114,15 +115,18 @@ a:hover {color:#5C3D00;
 
 
 #ingre {text-align:left;
-	padding-top:20px;
-	float:left;
+	    padding-top:20px;
+	    float:left;
 	    width:400px;
 	    height:700px;
+	    padding-left:100px;
+	    font-size:20px;
+	    padding-top:140px;
 
 }
 
 #nextpart {text-align:left;
-	padding-top:20px;
+	padding-top:120px;
 	float:left;
 	width:400px;
 	height:700px;
