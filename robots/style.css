@@ -80,7 +80,7 @@ body {margin: 0 auto;
 
 }
 
-#site-wrapper {background-color: #FFFFCC;
+#site-wrapper {background-color: #F0FFD4;
 	           position: absolute;
 	           top:0px;
 	           width:100%;
@@ -130,7 +130,7 @@ body {margin: 0 auto;
 
 }
 
-.main-menu ul
+#main-menu ul
 {
 list-style-type:none;
 margin:10px;
@@ -148,7 +148,7 @@ position:relative;
   text-decoration: none;
  }
 
-.main-menu li
+#main-menu li
 {
 display:inline;
 font-weight:bold;
