@@ -66,6 +66,7 @@ table {
 	height:130px;
 	padding: 0px;
     text-align: center;
+    text-transform: uppercase;
 }
 
 ol {
@@ -80,9 +81,7 @@ body {background-color:#FFFFFF;
 
 }
 
-#top {padding-top: 16px; 
 
-}
 
 
 .name {color:#B26B00;
