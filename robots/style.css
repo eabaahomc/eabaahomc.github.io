@@ -95,7 +95,7 @@ body {margin: 0 auto;
                      height:119px;
 	                 background:url(images/robo.png) no-repeat top left; 
                      text-indent:-9999px;
-                     margin-left: 115px;
+                     margin-left: 242px;
 
 
 }
@@ -137,7 +137,7 @@ position:relative;
      top:0px;
      text-align:center;
      display:inline;
-     margin: 86px;
+     margin-left: 210px;
 
  }
 
@@ -159,7 +159,7 @@ font-size:14px;
 
 #page {font-family:verdana;
 	   padding-top:193px;
-	   padding-left:118px;
+	   padding-left:250px;
 	   height:300px;
 	   width:560px;
 	   float:left;
@@ -203,8 +203,9 @@ font-size:14px;
 
 
 #sidebar h1 {color:#8A5C2E;
-	         font-size:15px;
+	         font-size:17px;
              font-weight:bold;
+             text-transform:uppercase;
 }
 
 #pets {padding-top:10px;
