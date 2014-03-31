@@ -126,9 +126,7 @@ body {margin: 0 auto;
 
 }
 
-#menu-wrapper {width:100%;
 
-}
 
 #main-menu ul
 {
@@ -254,7 +252,8 @@ padding:0px;
 	width:230px;
 	margin-top:12px;
 	margin-left: 120px;
-line-height:120%;
+    line-height:120%;
+    font-weight:bold;
 }
 
 #footer-contact h1 {color:#B5916C;
@@ -266,11 +265,12 @@ line-height:120%;
 
 
 
-#footer-follow h1 {color:#B5916C;
-	                font-size:15px;
+#footer-follow h1 {color:#D1C2B2;
+	                font-size:19px;
 	                padding-bottom:7px;
 	                font-family: verdana;
 	                font-weight:bold; 
+	                text-transform: uppercase;
 
 
 }
