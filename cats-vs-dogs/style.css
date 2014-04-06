@@ -79,10 +79,20 @@ h2 {
 	margin-bottom: 10px;
 }
 p {
-	color:black;
+	color:black;}
 
 	
+
+@font-face {
+	font-family: "LeagueGothic-Regular";
+	src: url("type/LeagueGothic-Regular.eot");
+	src: local("☺"),
+		url("type/LeagueGothic-Regular.woff") format("woff"),
+		url("type/LeagueGothic-Regular.otf") format("opentype"),
+		url("type/LeagueGothic-Regular.svg#LeagueGothic-Regular") format("svg");
+
 }
+
 .above ul
 {
 list-style-type:none;
@@ -136,7 +146,7 @@ padding:9px;
 
 .everything {width:100%;
 	         padding:30px;
-	         padding-left:400px;
+	         padding-left:115px;
 	         padding-right:100px;
 	         text-align:center;
 
