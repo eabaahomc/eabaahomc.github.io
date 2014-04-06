@@ -78,11 +78,8 @@ h2 {
 	padding-bottom: 20px;
 	margin-bottom: 10px;
 }
-p {
-	color:black;}
-
 	
-	.new title {font-family:"league_gothic regular", georgia;
+	p.new title {font-family:"league_gothic regular", georgia;
 
 	}
 
@@ -181,6 +178,7 @@ body{font-family:verdana;
 	position: relative;
 	  margin:0 auto;
     text-align:center;
+    color:black;
 	}
 
 
