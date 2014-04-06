@@ -88,6 +88,7 @@ h2 {
 	span {font-family:georgia;
 		font-style: italic;
 		font-size: 80px;
+		text-transform: lowercase;
 
 	}
 
