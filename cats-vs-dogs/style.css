@@ -80,12 +80,14 @@ h2 {
 }
 	
 	h1{font-family:league gothic, georgia;
-		font-size: 56px;
+		font-size: 120px;
+		text-transform:uppercase;
 
 	}
 
 	span {font-family:georgia;
 		font-style: italic;
+		font-size: 80px;
 
 	}
 
