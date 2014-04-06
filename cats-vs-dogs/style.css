@@ -84,6 +84,11 @@ h2 {
 
 	}
 
+	span {font-family:georgia;
+		font-style: italic;
+
+	}
+
 @font-face {
     font-family: 'league_gothicregular';
     src: url('leaguegothic-regular-webfont.eot');
