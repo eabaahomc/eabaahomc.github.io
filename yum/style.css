@@ -73,6 +73,7 @@ ol {
 	padding:10px;
 	list-style:decimal;
 	color:#A38242;
+	font-size:18px;
 
 }
 
@@ -109,7 +110,7 @@ a:hover {color:#5C3D00;
 
 .name2 {color:#B26B00;
 	font-weight: bold;
-    font-size:14px;
+    
 }
 
 
