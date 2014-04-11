@@ -64,7 +64,8 @@ body {font-family:verdana;
 }
 #wrapper {
 	min-height:100%;
-	position:relative;
+	position:absolute;
+	width:100%;
 }
 #top {background-color:#FFFF66;
 	color:#DA6C47;
@@ -115,22 +116,20 @@ a:hover {color:#5C3D00;
 
 
 
-#ingre {text-align:left;
-	    padding-top:20px;
+#ingre {
 	    float:left;
 	    width:400px;
-	    height:700px;
 	    padding-left:209px;
 	    font-size:20px;
-	    padding-top:90px;
+	    padding-bottom:100px;
+	    clear:both;
+	    
 
 }
 
-#nextpart {text-align:left;
-	padding-top:90px;
+#nextpart {
 	float:left;
 	width:400px;
-	height:700px;
     padding-left:70px; 
     clear:right;
 }
