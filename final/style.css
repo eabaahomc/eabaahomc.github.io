@@ -63,3 +63,13 @@ table {
   clear: both;
 }
 /*clearfix ends*/
+
+
+#linksbar {background-color:blue;
+	       height:90px;
+
+}
+
+#footer{background-color:blue;
+        height:90px;
+}
