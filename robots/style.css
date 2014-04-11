@@ -74,7 +74,6 @@ html[xmlns] .clearfix { display: block; }
 /*This is where the reset ends*/
 
 body {margin: 0 auto; 
-	height:800px;
 	font-family:verdana;
 	width:inherit;
 
