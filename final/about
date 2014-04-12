@@ -33,20 +33,22 @@
 
 
 		</div>
+        <!--this is where the body info goes-->
 		
 		<div id="content">
-			              <h1>Hello
+			              <h1>ABOUT
 			              </h1>
+                          <article id ="picture">
+                          <img src="images/mypic.jpg"/>
+                      </article>
+               <!--this is the text on me-->
+                      <article="info">
+                      <p>
+                      </p>
+                  </article>
 		</div>
+<!--this is where the footer in starts-->
 
-
-
-
-
-
-
-
-		
 		<div id="footer">
 			              <p>Copyright
 			              </p>
