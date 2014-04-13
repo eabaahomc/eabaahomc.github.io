@@ -224,4 +224,5 @@ footer{
 	.dogs{ float:none; width:70%; margin:0 1%; }
 	.cats{ float:none; width:70%; margin:0 1%; }
 	body{font-size:.2em;}
+	img {max-width:100%;}
 }
