@@ -223,5 +223,5 @@ footer{
 @media screen and (max-width:600px) {
 	.dogs{ float:none; width:98%; margin:0 1%; }
 	.cats{ float:none; width:98%; margin:0 1%; }
-	.everything {max-height: 115%}
+	body{font-size:.5em;}
 }
