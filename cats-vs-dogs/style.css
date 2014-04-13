@@ -221,7 +221,7 @@ footer{
 
 /*This is the responsive stuff*/
 @media screen and (max-width:600px) {
-	.dogs{ float:none; width:98%; margin:0 1%; }
-	.cats{ float:none; width:98%; margin:0 1%; }
+	.dogs{ float:none; width:70%; margin:0 1%; }
+	.cats{ float:none; width:70%; margin:0 1%; }
 	body{font-size:.2em;}
 }
