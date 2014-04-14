@@ -122,6 +122,8 @@ img {max-width:210%;}
 
 #footer{background-color:#19FFD1;
         height:90px;
+        position:absolute;
+        width:100%;
 }
 
 .buttons {float:left;
