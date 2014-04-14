@@ -69,7 +69,7 @@ body {width:100%;
 
 }
 
-#header {background-color:#19FFD1;
+#header {background-color:#00FF99;
 	       height:80px;
 	       position:fixed;
            padding-top:16px;
@@ -116,12 +116,12 @@ body {width:100%;
              font-family: verdana;
 }
 
-img {max-width:210%;}
+
 /*content*/
 
 
-#footer{background-color:#19FFD1;
-        height:90px;
+#footer{background-color:#00FF99;
+        height:120px;
         position:absolute;
         width:100%;
 }
