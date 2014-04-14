@@ -70,9 +70,9 @@ body {width:100%;
 }
 
 #header {background-color:#19FFD1;
-	       height:90px;
+	       height:80px;
 	       position:fixed;
-
+           padding-top:16px;
 }
 
 
