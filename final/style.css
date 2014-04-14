@@ -64,6 +64,9 @@ table {
 }
 /*clearfix ends*/
 
+body {width:100%;
+
+}
 
 #header {background-color:#19FFD1;
 	       height:90px;
@@ -80,7 +83,7 @@ table {
               display:inline;
 }
 
-#content {background-image:url("desk.jpg");
+#content {background-image:url("images/desk.jpg");
 
 }
 
