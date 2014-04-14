@@ -83,7 +83,7 @@ body {width:100%;
               display:inline;
 }
 
-#content {background-image:url("images/desk.jpg");
+#content {background:url("images/desk.jpg") top left no-repeat;
 
 }
 
