@@ -69,7 +69,7 @@ body {width:100%;
 
 }
 
-#header {background-color:#00FF99;
+#header {background-color:#19FFD1;
 	       height:80px;
 	       position:fixed;
            padding-top:16px;
@@ -120,7 +120,7 @@ body {width:100%;
 /*content*/
 
 
-#footer{background-color:#00FF99;
+#footer{background-color:#19FFD1;
         height:120px;
         position:absolute;
         width:100%;
