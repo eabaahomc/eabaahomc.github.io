@@ -75,6 +75,7 @@ table {
 }
 
 #linksbar{float:left;
+	      display:inline;
 
 }
 
