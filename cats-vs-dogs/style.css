@@ -220,6 +220,17 @@ footer{
 }
 
 /*This is the responsive stuff*/
+@media screen and (max-width:400px) {
+	.dogs{ float:none; width:70%; margin:0 1%; }
+	.cats{ float:none; width:70%; margin:0 1%; }
+	body{font-size:.2em;}
+	img {max-width:60%;
+	     max-height:40%;}
+	 li {padding:4px;} 
+	 h1 {font-size:24em;}
+	 span {font-size:.9em;}   
+}
+
 @media screen and (max-width:600px) {
 	.dogs{ float:none; width:70%; margin:0 1%; }
 	.cats{ float:none; width:70%; margin:0 1%; }
@@ -234,7 +245,7 @@ footer{
 @media screen and (max-width:800px) {
 	.dogs{ float:none; width:80%; margin:0 1%; }
 	.cats{ float:none; width:80%; margin:0 1%; }
-	body{font-size:.2em;}
+	body{font-size:.5em;}
 	img {max-width:90%;
 	     max-height:70%;}
 	 li {padding:4px;} 
