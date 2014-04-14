@@ -65,20 +65,27 @@ table {
 /*clearfix ends*/
 
 
-#header {background-color:blue;
+#header {background-color:#19FFD1;
 	       height:90px;
 
 }
 
-#footer{background-color:blue;
-        height:90px;
-}
 
 #linksbar{float:left;
-	      display:inline;
+
 
 }
 
 #linksbar li {padding-right:15px;
+              display:inline;
+}
 
+#content {background-image:url("desk.jpg");
+
+}
+
+
+/*content*/
+#footer{background-color:#19FFD1;
+        height:90px;
 }
