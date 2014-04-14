@@ -114,9 +114,15 @@ body {width:100%;
              font-size:25px;
              font-family: 'league_gothicregular';
 }
-
-
 /*content*/
+
+
 #footer{background-color:#19FFD1;
         height:90px;
 }
+
+#buttons {float:left;
+
+}
+
+#buttons li {display:inline;}
