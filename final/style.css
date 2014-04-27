@@ -108,6 +108,9 @@ body {width:100%;
               display:inline;
 }
 
+#header p {left:30px;
+
+}
 
 #wrapper {width:100%;
 
@@ -125,7 +128,7 @@ body {width:100%;
 #contenthome h1 {color:#FFFFFF;
              font-size:25px;
              font-family: verdana;
-             padding-left:30px;
+
 }
 
 
