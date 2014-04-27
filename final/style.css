@@ -106,6 +106,13 @@ body {width:100%;
               display:inline;
 }
 
+
+#wrapper {width:100%;
+
+}
+
+
+
 #contenthome {background-image:url("images/desk2.jpg");
              background-repeat:no-repeat;
            width:100%;
