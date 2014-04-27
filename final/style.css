@@ -135,7 +135,7 @@ body {width:100%;
               a:link {text-decoration:none;}    /* unvisited link */
 a:visited {color:#FFFFFF;text-decoration:none;} /* visited link */
 a:hover {text-decoration:underline;}   /* mouse over link */
-a:active {text-decoration:underline;}  /* selected link */
+a:active {color:#FFFFFF;text-decoration:underline;}  /* selected link */
 
 
 /*wrapper*/
