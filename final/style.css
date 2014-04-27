@@ -64,20 +64,7 @@ table {
 }
 /*clearfix ends*/
 
-/* Clearfix */
-.clearfix:after {
-  content: ".";
-  display: block;
-  clear: both;
-  visibility: hidden;
-  line-height: 0;
-  height: 0;
-}
- 
-.clearfix { display: inline-block; }
-html[xmlns] .clearfix { display: block; }
-* html .clearfix { height: 1%; }
-<!--this is where the reset ends-->
+
 
 body {width:100%;
 	margin: 0 auto;
@@ -131,7 +118,7 @@ body {width:100%;
 #contenthome {background-image:url("images/desk2.jpg");
              background-repeat:no-repeat;
            width:100%;
-           margin-bottom:100px;
+           padding-bottom-bottom:600px;
            
 }
 
