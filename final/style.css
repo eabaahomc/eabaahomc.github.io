@@ -127,6 +127,7 @@ body {width:100%;
 #linksbar li {padding-right:15px;
               display:inline;
               color:#FFFFFF;
+              text-decoration:none;
 }
 
 
