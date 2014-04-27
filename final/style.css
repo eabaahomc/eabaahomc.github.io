@@ -71,7 +71,7 @@ body {width:100%;
 
 }
 
-#header {background-color:#19FFD1;
+#header {background-color:#47D1FF;
 	       height:80px;
 	       position:fixed;
            padding-top:16px;
@@ -162,7 +162,7 @@ a:active {text-decoration:underline;}  /* selected link */
 /*content*/
 
 
-#footer{background-color:#19FFD1;
+#footer{background-color:#47D1FF;
         height:120px;
         position:absolute;
         width:100%;
