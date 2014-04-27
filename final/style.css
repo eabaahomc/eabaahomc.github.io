@@ -106,7 +106,8 @@ body {width:100%;
               display:inline;
 }
 
-#contenthome {background-image:url("images/desk2.jpg") top left no-repeat;
+#contenthome {background-image:url("images/desk2.jpg");
+             background-repeat:no-repeat;
            width:100%;
            margin-bottom:100px;
            
