@@ -153,7 +153,18 @@ a:active {text-decoration:underline;}  /* selected link */
 }
 
 
-/*content*/
+/*content is above*/
+
+/*image */
+
+img
+{
+position:absolute;
+left:0px;
+top:0px;
+z-index:-1;
+}
+
 
 
 #footer{background-color:#47D1FF;
