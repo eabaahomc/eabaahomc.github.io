@@ -78,7 +78,7 @@ body {width:100%;
            width:100%;
 }
 
-#header p {font-family:"leaguegothic-regular";
+#header p {font-family:"oswald-regular";
            font-size: 30px;
            color:#FFFFFF;
            padding-left:50px;
@@ -99,6 +99,25 @@ body {width:100%;
 
 
 }
+
+
+@font-face {
+    font-family: 'oswaldbook';
+    src: url('oswald-regular.eot');
+    src: url('oswald-regular.eot?#iefix') format('embedded-opentype'),
+         url('oswald-regular.woff') format('woff'),
+         url('oswald-regular.ttf') format('truetype'),
+         url('oswald-regular.svg#oswaldbook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+
+/*oswald font above*/
 
 #linksbar{float:right;
 
