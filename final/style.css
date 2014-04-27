@@ -125,6 +125,7 @@ body {width:100%;
 #contenthome h1 {color:#FFFFFF;
              font-size:25px;
              font-family: verdana;
+             padding-left:30px;
 }
 
 
@@ -137,6 +138,10 @@ body {width:100%;
         width:100%;
 }
 
+
+#footer {padding-left:30px;
+
+}
 .buttons {float:left;
 
 }
