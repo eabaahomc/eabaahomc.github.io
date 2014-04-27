@@ -127,16 +127,18 @@ body {width:100%;
 #linksbar li {padding-right:15px;
               display:inline;
               color:#FFFFFF;
-              text-decoration:none !important;
               
+
 }
 
 /*links*/
               a:link {text-decoration:none;}    /* unvisited link */
-a:visited {text-decoration:none;} /* visited link */
+a:visited {color:#FFFFFF;text-decoration:none;} /* visited link */
 a:hover {text-decoration:underline;}   /* mouse over link */
 a:active {text-decoration:underline;}  /* selected link */
 
+
+/*wrapper*/
 #wrapper {width:100%;
 
 }
