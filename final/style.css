@@ -178,6 +178,7 @@ a:active {text-decoration:underline;}  /* selected link */
 
 
 .buttons {float:left;
+         padding-top:20px;
 
 }
 
