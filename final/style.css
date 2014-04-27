@@ -128,14 +128,14 @@ body {width:100%;
               display:inline;
               color:#FFFFFF;
               text-decoration:none !important;
-              /*links*/
+              
+}
+
+/*links*/
               a:link {text-decoration:none;}    /* unvisited link */
 a:visited {text-decoration:none;} /* visited link */
 a:hover {text-decoration:underline;}   /* mouse over link */
 a:active {text-decoration:underline;}  /* selected link */
-}
-
-
 
 #wrapper {width:100%;
 
