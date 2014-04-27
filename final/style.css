@@ -81,6 +81,7 @@ body {width:100%;
 #header p {font-family:"leaguegothic-regular";
            font-size: 30px;
            color:#FFFFFF;
+           left:30px;
 
 }
 
@@ -108,9 +109,7 @@ body {width:100%;
               display:inline;
 }
 
-#header p {left:30px;
 
-}
 
 #wrapper {width:100%;
 
