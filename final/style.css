@@ -78,7 +78,7 @@ body {width:100%;
            width:100%;
 }
 
-#header p {font-family:"oswaldbook";
+#header p {font-family:"oswald";
            font-size: 30px;
            color:#FFFFFF;
            padding-left:50px;
@@ -188,3 +188,13 @@ top:0px;
 
 .buttons li {display:inline;
              padding-right:15px;}
+
+
+
+             html { 
+  background: url(images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
