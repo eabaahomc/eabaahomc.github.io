@@ -156,6 +156,16 @@ a:active {text-decoration:underline;}  /* selected link */
 
 /*content is above*/
 
+
+#welcome {float:left;
+          padding-top:100px;
+
+}
+
+
+
+
+
 /*image */
 
 img
