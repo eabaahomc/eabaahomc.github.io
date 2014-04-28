@@ -149,6 +149,7 @@ a:active {text-decoration:underline;}  /* selected link */
 #contenthome h1 {color:#307D91;
              font-size:25px;
              font-family: verdana;
+             padding-top: 50px;
 
 }
 
