@@ -146,7 +146,7 @@ a:active {text-decoration:underline;}  /* selected link */
 
 
 
-#contenthome h1 {color:##E3ECEE;
+#contenthome h1 {color:#E3ECEE;
              font-size:170px;
              font-family: verdana;
              padding-top: 50px;
@@ -178,7 +178,7 @@ top:0px;
 
 
 #footer{background-color:#47D1FF;
-        height:140px;
+        height:126px;
         position:fixed;
         width:100%;
         padding-left:60px;
