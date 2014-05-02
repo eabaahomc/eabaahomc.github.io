@@ -209,6 +209,5 @@ top:0px;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  opacity:0.4;
-  filter:alpha(opacity=40); /* For IE8 and earlier */
+  
 }
