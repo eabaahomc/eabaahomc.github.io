@@ -82,6 +82,7 @@ body {width:100%;
            font-size: 30px;
            color:#FFFFFF;
            padding-left:50px;
+           float:left;
 
 }
 
@@ -119,9 +120,7 @@ body {width:100%;
 
 /*oswald font above*/
 
-#name {padding-top:10px;
 
-}
 
 
 #linksbar{float:right;
