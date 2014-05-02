@@ -119,6 +119,11 @@ body {width:100%;
 
 /*oswald font above*/
 
+#name {padding-top:10px;
+
+}
+
+
 #linksbar{float:right;
 
 
@@ -178,7 +183,7 @@ top:0px;
 
 
 #footer{background-color:#47D1FF;
-        height:126px;
+        height:116px;
         position:fixed;
         width:100%;
         padding-left:60px;
