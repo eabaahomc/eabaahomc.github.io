@@ -169,6 +169,11 @@ a:active {text-decoration:underline;}  /* selected link */
 }
 
 #work li {float:left;
+          padding-left:20px;
+
+}
+
+#work {padding-top:100px;
 
 }
 
