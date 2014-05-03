@@ -178,8 +178,13 @@ a:active {text-decoration:underline;}  /* selected link */
 
 }
 
+#info {float: left;
 
+}
 
+#pic{float: left;
+
+}
 
 /*image */
 
