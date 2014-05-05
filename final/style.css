@@ -196,6 +196,17 @@ top:0px;
 }
 
 
+#homefooter{background-color:#FFFFFF;
+        height:116px;
+        width:100%;
+        padding-left:60px;
+        left:0px;
+        bottom: 0;
+        padding-top:40px;
+        position:fixed;
+}
+
+
 
 #footer{background-color:#FFFFFF;
         height:116px;
@@ -204,7 +215,7 @@ top:0px;
         left:0px;
         bottom: 0;
         padding-top:40px;
-        position:fixed;
+        
 }
 
 
