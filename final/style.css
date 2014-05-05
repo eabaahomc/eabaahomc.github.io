@@ -181,13 +181,7 @@ font-size: 15px;
 
 }
 
-#info {float: left;
 
-}
-
-#pic{float: right;
-
-}
 
 /*image */
 
@@ -198,11 +192,19 @@ top:0px;
 
 }
 
+
+#contentabout {padding-left:90px;
+
+}
+
+
 #picture {float:left;
 
 }
 
 #aboutinfo {float: right;
+            width: 400px;
+            padding-left:20px;
 
 }
 
