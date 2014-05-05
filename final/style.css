@@ -150,7 +150,7 @@ a:active {text-decoration:underline;}  /* selected link */
 
 
 
-#contenthome h1 {color:#E3ECEE;
+#contenthome h1 {color:#3496AC;
              font-size:170px;
              font-family: verdana;
              padding-top: 50px;
@@ -259,14 +259,21 @@ top:0px;
 
 
 #footer{background-color:#FFFFFF;
-        height:80px;
+        height:60px;
         width:100%;
         padding-left:60px;
         left:0px;
         bottom: 0;
-        padding-top:40px;
+        padding-top:5px;
         position: fixed;
 }
+
+#trademark {padding-left: 600px;
+
+}
+
+
+
 
 
 #footer p {padding-top: 20px;
