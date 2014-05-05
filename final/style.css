@@ -35,9 +35,7 @@ body {
       font-family: Arial; font-size:12px
 	
 }
-h1 {
-color:red;
-}
+
 ol, ul {
 	list-style: none;
 }
@@ -162,6 +160,10 @@ a:active {text-decoration:underline;}  /* selected link */
 
 /*content is above*/
 
+h1 {
+color:red;
+padding-top:104px;
+}
 
 #welcome {float:left;
           padding-top:100px;
