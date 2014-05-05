@@ -193,11 +193,11 @@ top:0px;
 }
 
 /*hover*/
-#work {
+#black {
     position:relative;
     display:inline-block;
 }
-#work:hover:after {
+#black:hover:after {
     content:"content here..";
     width:100%;
     height:100%;
