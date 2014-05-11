@@ -74,6 +74,7 @@ body {width:100%;
 	       position:fixed;
            padding-top:16px;
            width:100%;
+           z-index:1000;
 }
 
 #header p {font-family:"oswald";
@@ -174,7 +175,8 @@ font-size: 15px;
 #contenthome {
   width:960px;
   margin:0 auto;
-  font-family:'Courier New', 'Courier', monospace;
+  font-family:;
+  padding-top: 100px;
 }
 
 .photo-grid {
