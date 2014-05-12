@@ -164,6 +164,7 @@ a:active {text-decoration:underline;}  /* selected link */
 h1 {
 color:#3496AC;
 font-size: 15px;
+padding-bottom: 5px;
 }
 
 #welcome {float:left;
