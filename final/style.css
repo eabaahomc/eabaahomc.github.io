@@ -245,7 +245,7 @@ font-size: 15px;
 /*hover*/
 
 
-#contentabout {padding-left:90px;
+#contentabout {padding-left:360px;
 
 }
 
@@ -257,6 +257,7 @@ font-size: 15px;
 #aboutinfo {float: left;
             width: 400px;
             padding-left:20px;
+            font-size: 13px;
 
 }
 
