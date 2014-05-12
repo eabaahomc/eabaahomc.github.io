@@ -163,7 +163,6 @@ a:active {text-decoration:underline;}  /* selected link */
 
 h1 {
 color:#3496AC;
-padding-top:104px;
 font-size: 15px;
 }
 
@@ -246,6 +245,7 @@ font-size: 15px;
 
 
 #contentabout {padding-left:360px;
+               padding-top: 130px;
 
 }
 
