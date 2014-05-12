@@ -232,7 +232,7 @@ font-size: 15px;
   position: relative;
   width: 100%;
   padding-top:1em;
-  font-family:'Courier New', 'Courier', monospace;
+  font-family:verdana;
 }
 
 .photo-grid li:hover figcaption {
